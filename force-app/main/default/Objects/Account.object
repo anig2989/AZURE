@@ -491,8 +491,9 @@
         <position>none</position>
         <protected>false</protected>
         <showsLocation>true</showsLocation>
-        <showsStatus>true</showsStatus>
         
+        <showsStatus>true</showsStatus>
+
         <url>http://maps.yahoo.com/py/maps.py?cn={!Account_BillingCountry}&amp;csz={!Account_BillingCity}+{!Account_BillingState}+{!Account_BillingPostalCode}+&amp;addr={!Account_BillingAddress}</url>
     </webLinks>
 
