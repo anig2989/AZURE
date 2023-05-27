@@ -488,8 +488,9 @@
         <linkType>url</linkType>
         <masterLabel>Yahoo Maps</masterLabel>
         <openType>newWindow</openType>
-        <position>none</position>
         
+        <position>none</position>
+
         <protected>false</protected>
 
         <showsLocation>true</showsLocation>
