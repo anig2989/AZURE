@@ -487,8 +487,9 @@
         <isResizable>true</isResizable>
         <linkType>url</linkType>
         <masterLabel>Yahoo Maps</masterLabel>
-        <openType>newWindow</openType>
         
+        <openType>newWindow</openType>
+
         <position>none</position>
 
         <protected>false</protected>
