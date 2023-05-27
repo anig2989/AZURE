@@ -489,8 +489,9 @@
         <masterLabel>Yahoo Maps</masterLabel>
         <openType>newWindow</openType>
         <position>none</position>
-        <protected>false</protected>
         
+        <protected>false</protected>
+
         <showsLocation>true</showsLocation>
 
         <showsStatus>true</showsStatus>
